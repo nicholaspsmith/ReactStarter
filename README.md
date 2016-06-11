@@ -3,8 +3,8 @@
 #### Getting Started
 
 ```
-  > git clone git@github.com:nicholaspsmith/BeerRecipes.git
-  > cd BeerRecipes
+  > git clone git@github.com:nicholaspsmith/ReactStarter.git
+  > cd ReactStarter
   > npm install
   > npm start
 ```
